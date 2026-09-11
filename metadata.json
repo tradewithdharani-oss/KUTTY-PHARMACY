@@ -1,0 +1,8 @@
+{
+  "name": "Remix KUTTY PHARMACY - Nambiyur",
+  "description": "Trusted medical shop and healthcare pharmacy on Kovai Main Rd, Near Bus Stand, Nambiyur. Prescription upload, genuine medicines, healthcare essentials, and local delivery within 3 km.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
